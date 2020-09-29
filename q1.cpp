@@ -9,6 +9,6 @@ int main()
         if (i % 3 == 0 || i % 5 == 0)
             sum += i;
     }
-    cout << sum;
+    cout << sum << endl;
     return 0;
 }
